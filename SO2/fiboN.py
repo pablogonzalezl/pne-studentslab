@@ -1,4 +1,4 @@
-def fibon(n):
+def fibonn(n):
     list = []
     for i in range(12):
         if len(list) < 11:
