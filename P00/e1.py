@@ -1,3 +1,5 @@
 from Seq0 import *
-
-seq_ping()
+filename = '../sequences/U5_sequence.fa'
+sequence = seq_read_fasta(filename)
+print("DNA sequence:")
+print(sequence)
