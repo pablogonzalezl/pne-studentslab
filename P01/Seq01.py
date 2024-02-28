@@ -26,4 +26,4 @@ class Seq:
         return len(self.strbases)
 
 
-    def prueba
+    def pruebacomit
