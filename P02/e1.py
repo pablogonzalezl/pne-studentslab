@@ -12,4 +12,4 @@ c = Client(IP, PORT)
 
 c.ping()
 
-borrar esto
+borrar estoiooo
