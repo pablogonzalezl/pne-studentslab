@@ -11,3 +11,5 @@ PORT = 8081
 c = Client(IP, PORT)
 
 c.ping()
+
+borrar esto
