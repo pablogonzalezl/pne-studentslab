@@ -6,4 +6,4 @@ PORT = 8081
 c = Client(IP, PORT)
 print(c)
 
-borrar estoooo
+borrar this
