@@ -12,4 +12,3 @@ c = Client(IP, PORT)
 
 c.ping()
 
-borrar this

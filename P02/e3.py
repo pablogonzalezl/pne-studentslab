@@ -10,4 +10,3 @@ print("Sending a message to the server...")
 response = c.talk("Testing!!!")
 print(f"Response: {response}")
 
-borrar this
